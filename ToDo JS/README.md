@@ -1,2 +1,0 @@
-# ToDo em JS puro.
-
