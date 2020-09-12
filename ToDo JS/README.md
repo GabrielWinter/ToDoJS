@@ -1,3 +1,2 @@
-# A simple to do list in a pure vanilla javascript
+# ToDo em JS puro.
 
-[DEMO PAGE HERE, I hope you like :)](http://expalmer.github.io/todo-list-vanilla-js/)
